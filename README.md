@@ -4,8 +4,7 @@ This project consists of a simple HTML file that allows users to select a city f
 
 ## Usage
 
-1. Clone or download this repository to your local machine.
-2. Open the `index.html` file in a web browser.
+1. Open the `index.html` file in a web browser.
 
 ## Selectable Cities
 
