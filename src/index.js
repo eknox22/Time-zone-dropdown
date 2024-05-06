@@ -8,7 +8,7 @@ function showSelectedCity(event) {
       alert(`It is ${parisTime} in ${event.target.value}.`);
     } else if (event.target.value === "toyko") {
       let tokyoTime = moment()
-        .tz("Asia/Toyko")
+        .tz("Asia/Tokyo")
         .format("dddd, MMMM D YYYY HH:mm A");
       alert(`It is ${tokyoTime} in ${event.target.value}.`);
     } else if (event.target.value === "sydney") {
